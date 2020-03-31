@@ -1,5 +1,7 @@
-
 package exampleclass ;
+
+import rectangle.Rectangle;
+
 public class KonkreteKlasse {
 	public static void main (String[] arguments ) {
 		int height = 5 ; 

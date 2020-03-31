@@ -1,5 +1,6 @@
+package rectangle;
 
-class Rectangle {
+public class Rectangle {
 
   private int height;
 

@@ -1,3 +1,5 @@
+package rectangle;
+
 public class TestApp {
 
   public static void main(String[] arguments) {
