@@ -2,9 +2,9 @@
 package exampleclass ;
 public class KonkreteKlasse {
 	public static void main (String[] arguments ) {
-		Rectangle rect ; 
-		rect = new Rectangle() ; 
-		
+		int height = 5 ; 
+		int width  = 2 ; 
+		Rectangle rect = new Rectangle() ;  
 	}
 
 }
