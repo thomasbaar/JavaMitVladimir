@@ -5,7 +5,7 @@ public class IfElse {
 		checked = false ;
 		char state ;
 		if (checked)
-			(state = '+') ;
+			(state ='+') ;
 		else 
 			(state = '-');
 		System.out.println("Status:" + state);
