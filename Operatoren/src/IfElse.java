@@ -5,15 +5,15 @@ public class IfElse {
 		checked = false ;
 		char state ;
 		if (checked)
-			(state ='+') ;
+			state ='+' ;
 		else 
-			(state = '-');
+			state = '-';
 		System.out.println("Status:" + state);
 		checked = true ;
 		if (checked)
-			(state = '+');
+			state = '+';
 		else 
-			(state = '-');
+			state = '-';
 		System.out.println("Status:" +state) ;
 		
 	}
